@@ -1,0 +1,27 @@
+GOBLIN: It's a disgusting green goblin
+CAT: It's a cute cat
+DOG: It's a vicious wild dog
+ANT: It's a red ant
+BAT: It's a furry little bat
+EMU: It's a funny, plump bird
+FROG: It's a hopefully non-poisonous frog
+HORSE: It's a suprisingly angry horse
+IGUANA: It's scaly, green, spined and wingless
+JACKAL: It's what you see when you die...
+KNAVE: It's a hooded thief
+LAMIA: It's a beautiful snake-person
+MAN: It's a fully clothed clothed man
+NAKED MAN: It's a naked man... ew
+OWL: It's head is unnerving
+PLATYPUS: It has a wonderful fedora
+QUAIL: It's like, small, and kinda fat
+RAT: It's.. actually kinda cute
+SKELETON: It's just bones
+TADPOLE: It's slimy and small
+UNICORN: It's so pretty! Stab
+VOLE: It's a 10/10 rodent
+WASP: It's stinging me again
+XEME: It's a masked seagull
+YAK: It's a depressed bison
+ZEBRA: It's a striped horse
+VILLAGER: It's a poor villager

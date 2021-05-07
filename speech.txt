@@ -1,0 +1,11 @@
+NPC: How are you?
+NPC: Hello
+NPC: I don't know you.
+NPC: ... (No Response)
+PLA Good
+PLA Bad
+NPC That's good
+NPC That's not good
+PLA Hello
+PLA Hi
+PLA Greetings

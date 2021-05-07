@@ -1,0 +1,8 @@
+STANDING-STONE: It's a rough standing-stone
+TREE: It's a plain tree
+WOOD: It's a rough wooden wall
+STATUE: It's a beautiful statue
+FIRE: It's a blazing fire
+ARMOUR: It's a shiny piece of armour
+CHANNEL: It's a hole in the ground
+WATER: It's a hole filled with water
